@@ -1,1 +1,1 @@
-# KI_basierte_Bildverarbeitung
+# Vorlesung KI-basierte Bildverarbeitung
