@@ -9,4 +9,5 @@ dependencies:
   - Pillow
   - matplotlib
   - pandas
+  - tensorflow-datasets
 prefix: KI-BV
