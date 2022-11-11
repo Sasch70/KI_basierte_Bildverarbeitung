@@ -6,4 +6,9 @@ dependencies:
   - tensorflow-mkl
   - jupyterlab
   - console_shortcut
-prefix: C:\Users\sascha.seifert\.conda\envs\tensorflow
+  - Pillow
+  - matplotlib
+  - sklearn
+  - pandas
+  - cv2
+prefix: KI-BV
