@@ -9,6 +9,6 @@ dependencies:
   - Pillow
   - matplotlib
   - pandas
-  - tensorflow-datasets
+  - tensorflow-datasets=4.6.0
   - scikit-learn
 prefix: KI-BV
