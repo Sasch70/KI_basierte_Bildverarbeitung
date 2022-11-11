@@ -10,4 +10,5 @@ dependencies:
   - matplotlib
   - pandas
   - tensorflow-datasets
+  - scikit-learn
 prefix: KI-BV
