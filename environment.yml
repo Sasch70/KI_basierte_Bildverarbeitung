@@ -8,7 +8,5 @@ dependencies:
   - console_shortcut
   - Pillow
   - matplotlib
-  - sklearn
   - pandas
-  - cv2
 prefix: KI-BV
