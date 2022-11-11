@@ -1,0 +1,9 @@
+name: tensorflow
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - tensorflow-mkl
+  - jupyterlab
+  - console_shortcut
+prefix: C:\Users\sascha.seifert\.conda\envs\tensorflow
