@@ -1,6 +1,4 @@
 tensorflow==2.5.0
 matplotlib==3.5.2
-Pillow
-sklearn
-cv2
-pandas
+Pillow=9.2.0
+pandas==1.4.3
